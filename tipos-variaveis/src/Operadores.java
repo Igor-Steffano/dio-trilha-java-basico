@@ -5,6 +5,14 @@ public class Operadores {
         String nomeCompleto = "LINGUAGEM" + "JAVA";
         System.out.println(nomeCompleto);
         //resultado: LINGUAGEMJAVA
+
+        //x repetições
+
+        //operador ternario 
+        // <Expressão condicional> ? <Caso condição seja true> : <Caso condição seja false>
+
+
+    
         
     }
 }
